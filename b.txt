@@ -1,1 +1,2 @@
 This is file B, other people are working on this
+someone working on B pushed his code on main
